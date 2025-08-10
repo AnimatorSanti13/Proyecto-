@@ -16,7 +16,7 @@
     </ul>
   </nav>
   <header class="hero">
-    <h1>¡Descubre y juega como en Roblox!</h1>
+    <h1>JUEGOS Y SISTEMAS OPERATIVOS!</h1>
     <p>Catálogo de juegos optimizados para tu PC.</p>
   </header>
   <main>
